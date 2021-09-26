@@ -14,7 +14,8 @@ const UiProducts = () => {
     },[])
     const handleAddRevenue=(company)=>{
         const newCompanydetaild =[...companyDetails,company];
-        setCompanyDetails(newCompanydetaild)
+           
+        setCompanyDetails(newCompanydetaild);
     }
     return (
         <div className='section'>
