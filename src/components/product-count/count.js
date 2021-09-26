@@ -9,7 +9,7 @@ const Count = (props) => {
     return (
         <div className='bg-custom m-1 sticky-top'>
             <h4 className='text-primary'>Revenue Count For Companies</h4>
-            <p>Total Company : {props.details.length}</p>
+            <p>Added Company : {props.details.length}</p>
             <p>total Revenue :<br/> {totalRevenue.toFixed(2)} Billion</p>
         </div>
     );

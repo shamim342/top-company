@@ -13,7 +13,7 @@ const Product = (props) => {
                  <div className="card-body">
                    <h5 className="card-title ">
                        <small>Company name :</small><br/>
-                       <span className='text-danger'>{name}</span>
+                       <span className='text-danger fw-bold'>{name}</span>
                        </h5>
                    <p> 
                        <span className='fw-bolder'>
@@ -26,7 +26,7 @@ const Product = (props) => {
                              Popular Bike Serirs :
                         </span> <br/>{popularBikes}
                     </p>
-                    <p><span className='fw-bold'>Revenue :</span>  <span className='fw-bold text-primary'>{Revenue}</span> Billion $</p>
+                    <p><span className='fw-bold'>Revenue per Year:<br/></span>  <span className='fw-bold text-primary'>{Revenue}</span> Billion $</p>
                     <button onClick={()=>props.handleAddRevenue(props.company)} className='btn btn-primary w-75'> {element}  Add Revenue</button>
                     <div className='icons'>
                     <i className="fab fa-facebook fa-2x icon-color1"></i>
