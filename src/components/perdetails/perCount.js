@@ -2,7 +2,6 @@ import React from 'react';
 import './percount.css';
 
 const PerCount = (props) => {
-    console.log(props);
     const {img , name}=props.uniqeCompany;
     return (
         <div className='percount-section'>
