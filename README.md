@@ -2,13 +2,13 @@
 
 - my project live here -[https://bike-companies.netlify.app/]
 
-## Roadmap
+## About the website
 
 - all information collect from Google
 
-- Make personal database 
+- which Bike company is getting rich , you can see  
 
-- Creat react app 
+- you can collect information about bike company
 
 
 ## utlities
