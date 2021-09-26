@@ -1,0 +1,10 @@
+.bottom-line {
+    border-bottom: 5px solid #dc3545;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.bg-custom-header {
+    border: 1px solid crimson;
+    margin-top: 1rem;
+}

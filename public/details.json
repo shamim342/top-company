@@ -1,0 +1,117 @@
+[{
+        "rank": 1,
+        "name": "Honda",
+        "headquartered": "Minato, Japan",
+        "year": 1946,
+        "popularBikes": " CB series, Superclub, Beat, Motra, Moped, Shine, Unicorn",
+        "Revenue": 13.3,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/1-31-768x576.jpg"
+    },
+    {
+        "rank": 2,
+        "name": " Kawasaki",
+        "headquartered": "Minato, Tokyo",
+        "year": 1896,
+        "popularBikes": " Supersport, Versys, Cruiser",
+        "Revenue": 14,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/2-30.jpg"
+    },
+    {
+        "rank": 3,
+        "name": " Yamaha",
+        "headquartered": "Iwata, Japan",
+        "year": 1955,
+        "popularBikes": " Vmax, YZF, Fazer, FZS, Saluto",
+        "Revenue": 8.96,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/3-28.jpg"
+    },
+    {
+        "rank": 4,
+        "name": "Harley-Davidson",
+        "headquartered": "Milwaukee, United States of America",
+        "year": 1903,
+        "popularBikes": "Sportster,Dyna Softail, V-rod, Harley Davidson Street",
+        "Revenue": 5.6,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/4-25-768x420.jpg"
+    },
+    {
+        "rank": 5,
+        "name": "Ducati",
+        "headquartered": "Bologna, Italy",
+        "year": 19026,
+        "popularBikes": "Monster, Panigale, Hypermotard, Street fighter ",
+        "Revenue": 7.33,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/5-27-768x474.jpg"
+    },
+    {
+        "rank": 6,
+        "name": "Hero Moto Corp",
+        "headquartered": "New Delhi, India",
+        "year": 1982,
+        "popularBikes": "Karizma ZMR, Hunk, Impulse, Glamour, Splendor, Passion Pro, HF Deluxe",
+        "Revenue": 4,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/6-24-768x464.jpg"
+    },
+    {
+        "rank": 7,
+        "name": "BMW",
+        "headquartered": "Munich, Germany",
+        "year": 1916,
+        "popularBikes": "BMW Motorrad, BMW I, BMW Motorsport. S 1000 R, R Nine T, R 1200 RT, R 1200 GS, R 1200 GS Adventure ",
+        "Revenue": 1.84,
+        "img": "https://ic1.maxabout.us/autos/tw_india//D/2021/3/dhoom-3-bike-bmw-k1300r.jpg"
+    },
+    {
+        "rank": 8,
+        "name": "Triumph",
+        "headquartered": "Leicestershire, England",
+        "year": 1984,
+        "popularBikes": "Tiber explorer, Bonneville, Thruxton, Rocket, Roadstar, Thunderbird, Street Treble ABS",
+        "Revenue": 3.8,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/8-19-768x576.jpg"
+    },
+    {
+        "rank": 9,
+        "name": "Suzuki Motor",
+        "headquartered": "Hamamatsu, Japan",
+        "year": 1909,
+        "popularBikes": "Gixxer, Hayate, Slingshot, GS150 R",
+        "Revenue": 2.3,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/9-19-768x480.jpg"
+    },
+    {
+        "rank": 10,
+        "name": "Piaggio",
+        "headquartered": "Sestri Ponente, Italy",
+        "year": 1884,
+        "popularBikes": "iscal year. Vespa, Moto Guzzi, Derbi ",
+        "Revenue": 1.3,
+        "img": "https://www.rvcj.com/wp-content/uploads/2016/05/10-16-768x463.jpg"
+    }, {
+        "rank": 11,
+        "name": " Bimota",
+        "headquartered": " Rimini, Italy",
+        "year": 1973,
+        "popularBikes": " Vmax, YZF, Fazer, FZS, Saluto",
+        "Revenue": 1.96,
+        "img": "https://www.carlogos.org/review-images/best-motorcycle-brands-bimota.jpg"
+    },
+    {
+        "rank": 12,
+        "name": "Victory",
+        "headquartered": "Spirit Lake, Dickinson County",
+        "year": 1998,
+        "popularBikes": " Vmax, YZF, Fazer, FZS, Saluto",
+        "Revenue": 0.77,
+        "img": "https://www.carlogos.org/review-images/best-motorcycle-brands-victory.jpg"
+    },
+    {
+        "rank": 13,
+        "name": "Royal Enfield",
+        "headquartered": "Tamil Nadu, India.",
+        "year": 1901,
+        "popularBikes": " Meteor 350, Himalayan, Classic and Bulle",
+        "Revenue": 1.29,
+        "img": "https://www.carlogos.org/review-images/best-motorcycle-brands-royal-enfield.jpg"
+    }
+]
